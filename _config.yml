@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Peide Zhu
+title: Peide Zhu (朱佩德)
 
 # Short description of your site
 description: Blogs
@@ -90,7 +90,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Peide Zhu""  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Peide Zhu"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
